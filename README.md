@@ -11,13 +11,24 @@ Alignment as a Constrained Continual Learning Problem" width="600">
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="figures/projection.png" alt="OGPSA / OGPSA method" width="300">
 </p>
 
 <p align="center">
   <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="300">
-</p>
+</p> -->
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="figures/projection.png" alt="OGPSA / OGPSA method" width="300">
+    <p style="margin-top: 5px;">OGPSA / OGPSA method</p>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="300">
+    <p style="margin-top: 5px;">OGPSA / overall performance</p>
+  </div>
+</div>
 
 
 ---
