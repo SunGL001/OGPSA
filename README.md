@@ -7,16 +7,16 @@ Official PyTorch implementation of our paper for **safety alignment**.
 
 <p align="center">
   <img src="figures/overall.png" alt="OGPSA / Conceptual framework for reframing LLM Safety
-Alignment as a Constrained Continual Learning Problem" width="900">
+Alignment as a Constrained Continual Learning Problem" width="600">
 </p>
 
 
 <p align="center">
-  <img src="figures/projection.png" alt="OGPSA / OGPSA method" width="900">
+  <img src="figures/projection.png" alt="OGPSA / OGPSA method" width="300">
 </p>
 
 <p align="center">
-  <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="900">
+  <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="300">
 </p>
 
 
