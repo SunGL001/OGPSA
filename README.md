@@ -19,10 +19,11 @@ Alignment as a Constrained Continual Learning Problem" width="600">
   <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="300">
 </p> -->
 
-| | |
-| :---: | :---: |
-| <img src="figures/projection.png" alt="OGPSA / OGPSA method" width="300"> | <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="300"> |
-| OGPSA / OGPSA method | OGPSA / overall performance |
+<p align="center">
+  <img src="figures/projection.png" alt="OGPSA / OGPSA method" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="figures/qwen_results.png" alt="OGPSA / overall performance" width="300" />
+</p>
 
 
 ---
