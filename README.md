@@ -1,13 +1,12 @@
 # OGPSA: Orthogonal Gradient Projection for Safety Alignment
 
-Official PyTorch implementation of our paper for **safety alignment**.
-
 <p align="center">
   <a href="https://arxiv.org/abs/2602.07892"><img src="https://img.shields.io/badge/arXiv-2602.01976-b31b1b.svg?logo=arXiv"></a>
   <a href="https://github.com/SunGL001/OGPSA"><img src="https://img.shields.io/github/stars/SunGL001/OGPSA?color=4fb5ee"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 </p>
 
+Official PyTorch implementation of our paper for **safety alignment**.
 
 **OGPSA** (**O**rthogonal **G**radient **P**rojection for **S**afety **A**lignment) preserves general capabilities during safety alignment via an orthogonal gradient projection strategy, balancing safety with downstream performance.
 
