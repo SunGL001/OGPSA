@@ -6,6 +6,10 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 </p>
 
+
+<p align="center"> <b>Guanglong Sun, Siyuan Zhang, Liyuan Wang, Jun Zhu, Hang Su, Yi Zhong</b> </p>
+
+
 Official PyTorch implementation of our paper for **safety alignment**.
 
 **OGPSA** (**O**rthogonal **G**radient **P**rojection for **S**afety **A**lignment) preserves general capabilities during safety alignment via an orthogonal gradient projection strategy, balancing safety with downstream performance.
