@@ -2,6 +2,13 @@
 
 Official PyTorch implementation of our paper for **safety alignment**.
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2602.07892"><img src="https://img.shields.io/badge/arXiv-2602.01976-b31b1b.svg?logo=arXiv"></a>
+  <a href="https://github.com/SunGL001/OGPSA"><img src="https://img.shields.io/github/stars/AnAppleCore/FlyGCL?color=4fb5ee"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+</p>
+
+
 **OGPSA** (**O**rthogonal **G**radient **P**rojection for **S**afety **A**lignment) preserves general capabilities during safety alignment via an orthogonal gradient projection strategy, balancing safety with downstream performance.
 
 
@@ -193,7 +200,15 @@ This project extends the following open-source project:
 If this repository helps your research, please cite our paper:
 
 ```bibtex
-todo
+@misc{sun2026safetyalignmentcontinuallearning,
+      title={Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection}, 
+      author={Guanglong Sun and Siyuan Zhang and Liyuan Wang and Jun Zhu and Hang Su and Yi Zhong},
+      year={2026},
+      eprint={2602.07892},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.07892}, 
+}
 ```
 ---
 
